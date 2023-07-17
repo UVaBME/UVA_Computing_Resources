@@ -7,3 +7,4 @@ For quick understanding of how to use markdown, [see this resource](https://www.
 
 ## Table of Contents
 1. [R@UVA](R_Resources/R_at_UVA.md)
+2. [Python@UVA](Python_Resources/Python_at_UVA.md)
