@@ -15,3 +15,14 @@ For quick understanding of how to use markdown, [see this resource](https://www.
 
 
 If you don't see what you need in this repository, you could try looking for something in this [external github repository](https://github.com/EbookFoundation/free-programming-books) with links to all the free coding resources you could ever want and more.
+
+## How to find help at UVA
+If you need help with coding, we welcome you to contact one of the postdocs or students below. We also are planning a regular "coding office hours" session with several in the BME department where you can get any questions you have answered.
+
+
+Alex Clark, apc5un@virginia.edu
+I was an instructor for JumpStart Day 1, teaching programming fundamentals in Python. My preferred language is Python, but I also have experience with Matlab and R. Recently, I used these languages for ODE modeling and simulations, but am now learning some sequencing analysis tools. I also have experience with bash, git/GitHub, machine learning, statistical analysis, and plotting in Python. I can also help with high-power computing on Rivanna.
+ 
+Sarah Groves, smgroves@virginia.edu
+I was an instructor for JumpStart Day 2, teaching the intro to data analysis section. Python is my preferred language, and I am happy to help with any problems that are related to Python, GitHub/version control, or bash/command line. I have a lot of experience with analysis of sequencing or other high-dimensional data, pandas and plotting, graph/network analyses, statistical analysis, and machine learning methods.
+
