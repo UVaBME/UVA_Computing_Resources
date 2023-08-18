@@ -26,3 +26,5 @@ I was an instructor for JumpStart Day 1, teaching programming fundamentals in Py
 Sarah Groves, smgroves@virginia.edu
 I was an instructor for JumpStart Day 2, teaching the intro to data analysis section. Python is my preferred language, and I am happy to help with any problems that are related to Python, GitHub/version control, or bash/command line. I have a lot of experience with analysis of sequencing or other high-dimensional data, pandas and plotting, graph/network analyses, statistical analysis, and machine learning methods.
 
+Michael Rariden, rariden@virginia.edu
+I instructed during JumpStart Day 1. My preferred language is Python, but I have experience in Matlab. I also extensively use git, bash, and SLURM. My projects now deal with image analysis and segmentation using some deep learning. 
